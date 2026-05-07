@@ -1,5 +1,8 @@
 # Civic Issue Reporting System
 
+## Live Project
+https://smart-civic-system.lovable.app
+
 This project is based on smart civic system, reporting,along with multiple dashboards 
 
 ## Features
@@ -11,6 +14,3 @@ This project is based on smart civic system, reporting,along with multiple dashb
 ## Tech Used
 - Lovable
 - UI/UX Design
-
-## Live Project
-https://smart-civic-system.lovable.app
